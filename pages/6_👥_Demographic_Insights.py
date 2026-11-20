@@ -145,21 +145,32 @@ else:
 freq_map = df.groupby("account_number").size().to_dict()
 acct_df["txn_frequency"] = acct_df["account_number"].map(freq_map).fillna(1)
 
-fig_scatter = px.scatter(
-    acct_df,
-    x=tenure_col,
-    y="txn_frequency",
-    color="account_type",
-    trendline="ols",
-    hover_data=["customer_name", "region", "current_balance"],
-    labels={tenure_col: "Relationship Tenure (Months)", "txn_frequency": "Transaction Frequency (Count)"}
-)
+try:
+    fig_scatter = px.scatter(
+        acct_df,
+        x=tenure_col,
+        y="txn_frequency",
+        color="account_type",
+        trendline="ols",
+        hover_data=["customer_name", "region", "current_balance"],
+        labels={tenure_col: "Relationship Tenure (Months)", "txn_frequency": "Transaction Frequency (Count)"}
+    )
+except Exception:
+    fig_scatter = px.scatter(
+        acct_df,
+        x=tenure_col,
+        y="txn_frequency",
+        color="account_type",
+        hover_data=["customer_name", "region", "current_balance"],
+        labels={tenure_col: "Relationship Tenure (Months)", "txn_frequency": "Transaction Frequency (Count)"}
+    )
 fig_scatter.update_layout(
     margin=dict(t=15, b=15, l=15, r=15),
     height=330,
     legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
 )
 st.plotly_chart(fig_scatter, use_container_width=True)
+
 
 render_insight_box(
     title=f"Statistical Conclusion for OQ-08: {corr_label}",
