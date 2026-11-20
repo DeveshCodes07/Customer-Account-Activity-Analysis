@@ -6,7 +6,7 @@ File: src/analytics.py
 
 import numpy as np
 import pandas as pd
-from scipy import stats
+
 
 def compute_hnw_cutoff(df: pd.DataFrame, quantile: float = 0.95) -> tuple[float, pd.DataFrame, float]:
     """
@@ -238,7 +238,9 @@ def compute_tenure_frequency_correlation(df: pd.DataFrame) -> tuple[float, float
     if len(tenure) < 3 or np.std(tenure) == 0 or np.std(freq) == 0:
         return 0.0, 1.0, "Insufficient Variance"
 
+    from scipy import stats
     r, p = stats.pearsonr(tenure, freq)
+
     
     if abs(r) >= 0.7:
         strength = "Strong"
