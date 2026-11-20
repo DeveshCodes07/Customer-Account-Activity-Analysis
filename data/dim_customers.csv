@@ -1,0 +1,101 @@
+customer_id,customer_code,first_name,last_name,age,age_group,gender,occupation,annual_income,credit_score,kyc_status,branch_id,branch_name,branch_city,branch_tier,onboarding_date
+1,CUST-00001,Priya,Mishra,43,36-50,Female,Salaried,673655.57,709,Verified,102,Greater Noida Knowledge Park,Noida,Urban,2021-10-29
+2,CUST-00002,Vihaan,Malhotra,45,36-50,Male,Salaried,1222927.16,834,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2024-02-02
+3,CUST-00003,Amit,Joshi,35,26-35,Male,Student,163821.11,702,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2022-09-29
+4,CUST-00004,Rohan,Joshi,56,50+,Male,Retired,341880.56,777,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2026-01-27
+5,CUST-00005,Kavita,Verma,32,26-35,Female,Retired,609607.66,760,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2020-02-01
+6,CUST-00006,Vihaan,Sharma,32,26-35,Male,Business,3660352.86,685,Re-KYC,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2025-06-05
+7,CUST-00007,Sandeep,Yadav,40,36-50,Male,Student,74398.11,576,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2025-10-04
+8,CUST-00008,Sneha,Saxena,18,18-25,Female,Student,106918.32,677,Re-KYC,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2022-12-03
+9,CUST-00009,Swati,Sharma,25,18-25,Female,Student,97317.96,743,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2020-03-13
+10,CUST-00010,Neha,Malhotra,27,26-35,Female,Business,2263838.03,614,Pending,108,Hapur Mandi Agri Branch,Meerut,Rural,2024-12-15
+11,CUST-00011,Rohan,Mishra,55,50+,Male,Retired,805356.69,703,Pending,107,Meerut Cantt Branch,Meerut,Semi-Urban,2022-07-02
+12,CUST-00012,Aditya,Saxena,38,36-50,Male,Self-Employed,967993.05,613,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2024-10-06
+13,CUST-00013,Ritu,Chaudhary,31,26-35,Female,Salaried,,728,Re-KYC,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2020-05-09
+14,CUST-00014,Priya,Yadav,24,18-25,Female,Business,2786790.22,748,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2025-04-23
+15,CUST-00015,Aditya,Nair,30,26-35,Male,Salaried,1397033.49,698,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2020-11-12
+16,CUST-00016,Nandini,Yadav,30,26-35,Female,Salaried,1276476.77,858,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2022-05-14
+17,CUST-00017,Kavita,Joshi,37,36-50,Female,Retired,1122568.82,640,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2026-05-05
+18,CUST-00018,Rajesh,Kapoor,47,36-50,Male,Retired,1016436.06,628,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2020-03-13
+19,CUST-00019,Ananya,Mishra,40,36-50,Female,Self-Employed,315751.89,573,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2025-02-13
+20,CUST-00020,Kavita,Gupta,22,18-25,Female,Salaried,963550.01,734,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2023-01-24
+21,CUST-00021,Alok,Yadav,46,36-50,Male,Salaried,1654440.42,732,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2024-01-15
+22,CUST-00022,Aarav,Chaudhary,36,36-50,Male,Self-Employed,809018.11,697,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2023-12-29
+23,CUST-00023,Aarav,Bhatia,20,18-25,Male,Student,91771.59,666,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2020-02-27
+24,CUST-00024,Pooja,Joshi,32,26-35,Female,Self-Employed,636706.96,799,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2022-08-02
+25,CUST-00025,Sandeep,Bhatia,42,36-50,Male,Business,3291448.82,587,Re-KYC,102,Greater Noida Knowledge Park,Noida,Urban,2025-11-17
+26,CUST-00026,Rajesh,Joshi,41,36-50,Male,Student,87298.45,691,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2024-12-26
+27,CUST-00027,Amit,Nair,29,26-35,Male,Salaried,1688735.12,765,Verified,102,Greater Noida Knowledge Park,Noida,Urban,2025-12-28
+28,CUST-00028,Kavita,Bhatia,50,36-50,Female,Salaried,485231.03,789,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2024-09-10
+29,CUST-00029,Sandeep,Malhotra,27,26-35,Male,Student,185366.43,696,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2022-03-07
+30,CUST-00030,Manish,Joshi,41,36-50,Male,Self-Employed,651857.11,793,Pending,108,Hapur Mandi Agri Branch,Meerut,Rural,2024-10-27
+31,CUST-00031,Rohan,Sharma,32,26-35,Male,Self-Employed,765085.44,706,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2025-12-30
+32,CUST-00032,Kavita,Kapoor,24,18-25,Female,Student,194116.84,630,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2025-10-16
+33,CUST-00033,Shweta,Bhatia,47,36-50,Female,Salaried,523835.59,821,Pending,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2020-01-25
+34,CUST-00034,Meera,Verma,37,36-50,Female,Salaried,1196324.82,795,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2024-04-08
+35,CUST-00035,Neha,Malhotra,42,36-50,Female,Salaried,539773.51,671,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2023-01-05
+36,CUST-00036,Divya,Verma,42,36-50,Female,Salaried,1250680.92,835,Verified,102,Greater Noida Knowledge Park,Noida,Urban,2025-09-26
+37,CUST-00037,Rahul,Singh,37,36-50,Male,Salaried,856062.81,837,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2022-06-01
+38,CUST-00038,Sandeep,Bhatia,18,18-25,Male,Student,197578.0,781,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2020-05-04
+39,CUST-00039,Alok,Verma,39,36-50,Male,Retired,377576.56,697,Verified,102,Greater Noida Knowledge Park,Noida,Urban,2020-05-09
+40,CUST-00040,Amit,Chaudhary,39,36-50,Male,Salaried,847176.42,570,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2020-11-21
+41,CUST-00041,Suresh,Kapoor,35,26-35,Male,Student,63844.77,746,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2026-01-24
+42,CUST-00042,Manish,Gupta,55,50+,Male,Retired,954169.36,681,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2020-04-08
+43,CUST-00043,Vihaan,Kapoor,28,26-35,Male,Business,1351500.86,682,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2020-05-12
+44,CUST-00044,Aditya,Sharma,48,36-50,Male,Salaried,1653523.16,744,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2022-07-19
+45,CUST-00045,Rohan,Yadav,31,26-35,Male,Salaried,1481168.55,758,Pending,107,Meerut Cantt Branch,Meerut,Semi-Urban,2024-10-28
+46,CUST-00046,Pooja,Bhatia,39,36-50,Female,Salaried,,792,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2026-04-13
+47,CUST-00047,Suresh,Kumar,29,26-35,Male,Business,2323338.72,695,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2023-07-27
+48,CUST-00048,Prakash,Verma,33,26-35,Male,Salaried,406150.68,610,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2021-05-25
+49,CUST-00049,Gaurav,Joshi,41,36-50,Male,Student,83438.53,739,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2022-11-17
+50,CUST-00050,Vihaan,Joshi,38,36-50,Male,Salaried,1280148.52,702,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2026-04-01
+51,CUST-00051,Amit,Gupta,21,18-25,Male,Self-Employed,286344.34,688,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2023-01-16
+52,CUST-00052,Rahul,Verma,33,26-35,Male,Salaried,1186052.66,659,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2026-07-17
+53,CUST-00053,Manish,Saxena,36,36-50,Male,Business,4278973.55,750,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2022-06-23
+54,CUST-00054,Alok,Kapoor,60,50+,Male,Retired,1055614.52,733,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2020-11-14
+55,CUST-00055,Vikram,Kumar,41,36-50,Male,Salaried,778700.04,714,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2022-04-23
+56,CUST-00056,Divya,Gupta,18,18-25,Female,Student,132190.58,718,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2024-03-15
+57,CUST-00057,Dev,Chaudhary,38,36-50,Male,Business,2520456.3,880,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2020-10-29
+58,CUST-00058,Suresh,Joshi,35,26-35,Male,Business,3237747.76,742,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2025-07-06
+59,CUST-00059,Swati,Malhotra,37,36-50,Female,Business,1631170.46,632,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2026-01-15
+60,CUST-00060,Sandeep,Chaudhary,51,50+,Male,Retired,643718.96,776,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2022-04-03
+61,CUST-00061,Rohan,Gupta,47,36-50,Male,Business,820515.83,651,Verified,102,Greater Noida Knowledge Park,Noida,Urban,2021-10-16
+62,CUST-00062,Manish,Mishra,54,50+,Male,Retired,486738.37,614,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2025-01-23
+63,CUST-00063,Shweta,Saxena,45,36-50,Female,Retired,815679.7,880,Pending,108,Hapur Mandi Agri Branch,Meerut,Rural,2020-11-24
+64,CUST-00064,Suresh,Saxena,26,26-35,Male,Salaried,580778.97,677,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2023-08-27
+65,CUST-00065,Nandini,Yadav,39,36-50,Female,Salaried,1477628.51,682,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2023-06-25
+66,CUST-00066,Prakash,Singh,19,18-25,Male,Student,183954.02,725,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2023-12-19
+67,CUST-00067,Aditya,Mishra,25,18-25,Male,Student,99632.21,755,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2024-03-28
+68,CUST-00068,Ritu,Kapoor,26,26-35,Female,Business,4300429.52,836,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2021-03-18
+69,CUST-00069,Rajesh,Singh,28,26-35,Male,Business,3957757.42,695,Pending,107,Meerut Cantt Branch,Meerut,Semi-Urban,2020-07-10
+70,CUST-00070,Kavita,Joshi,47,36-50,Female,Self-Employed,459511.76,627,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2021-02-10
+71,CUST-00071,Rajesh,Yadav,40,36-50,Male,Business,2295971.68,818,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2025-02-16
+72,CUST-00072,Alex,Saxena,18,18-25,Other,Student,134658.8,733,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2025-01-14
+73,CUST-00073,Sneha,Sharma,41,36-50,Female,Salaried,824661.37,778,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2022-04-23
+74,CUST-00074,Gaurav,Rawat,23,18-25,Male,Student,52907.49,620,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2024-01-17
+75,CUST-00075,Swati,Yadav,44,36-50,Female,Salaried,394993.5,742,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2024-11-06
+76,CUST-00076,Sandeep,Yadav,41,36-50,Male,Salaried,1724247.68,745,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2022-06-04
+77,CUST-00077,Dev,Mishra,29,26-35,Male,Business,3677829.98,737,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2025-05-07
+78,CUST-00078,Divya,Singh,41,36-50,Female,Self-Employed,1112624.84,666,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2025-09-15
+79,CUST-00079,Nandini,Yadav,60,50+,Female,,787294.89,755,Verified,102,Greater Noida Knowledge Park,Noida,Urban,2020-03-18
+80,CUST-00080,Neha,Saxena,23,18-25,Female,Student,125894.12,769,Verified,107,Meerut Cantt Branch,Meerut,Semi-Urban,2021-01-23
+81,CUST-00081,Rajesh,Yadav,26,26-35,Male,Student,118960.9,779,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2020-09-15
+82,CUST-00082,Sunita,Chaudhary,51,50+,Female,Student,122524.63,658,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2022-12-11
+83,CUST-00083,Nandini,Kapoor,49,36-50,Female,Salaried,1628365.22,750,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2020-03-02
+84,CUST-00084,Ritu,Kumar,47,36-50,Female,Salaried,1583881.61,862,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2022-07-31
+85,CUST-00085,Neha,Singh,35,26-35,Female,Student,155177.56,663,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2020-10-06
+86,CUST-00086,Ananya,Malhotra,27,26-35,Female,Business,2607738.03,658,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2021-01-20
+87,CUST-00087,Aarav,Verma,37,36-50,Male,Salaried,936381.64,745,Verified,106,Muradnagar Rural Agricultural Branch,Ghaziabad,Rural,2021-04-02
+88,CUST-00088,Neha,Rawat,41,36-50,Female,Retired,772869.05,782,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2023-07-10
+89,CUST-00089,Rohan,Verma,38,36-50,Male,Business,1967527.39,829,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2024-05-30
+90,CUST-00090,Sandeep,Singh,34,26-35,Male,Business,4413445.98,880,Verified,105,Modinagar Town Branch,Ghaziabad,Semi-Urban,2025-06-07
+91,CUST-00091,Sunita,Malhotra,45,36-50,Female,Salaried,788288.0,655,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2023-06-26
+92,CUST-00092,Aarav,Saxena,25,18-25,Male,Salaried,1274911.0,756,Verified,102,Greater Noida Knowledge Park,Noida,Urban,2026-06-03
+93,CUST-00093,Deepika,Nair,35,26-35,Female,Salaried,617327.32,773,Verified,108,Hapur Mandi Agri Branch,Meerut,Rural,2025-04-12
+94,CUST-00094,Ritu,Nair,43,36-50,Female,Salaried,1262696.28,714,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2020-03-31
+95,CUST-00095,Ananya,Malhotra,27,26-35,Female,Salaried,1458443.0,606,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2020-09-12
+96,CUST-00096,Suresh,Nair,32,26-35,Male,Salaried,1203361.45,784,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2025-06-12
+97,CUST-00097,Pooja,Yadav,40,36-50,Female,Salaried,1307620.8,626,Verified,103,Ghaziabad RDC Raj Nagar,Ghaziabad,Urban,2020-05-15
+98,CUST-00098,Aarav,Rawat,40,36-50,Male,Self-Employed,814120.64,748,Verified,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2023-04-30
+99,CUST-00099,Anjali,Bhatia,27,26-35,Female,Self-Employed,903015.67,731,Pending,104,Sahibabad Industrial Area Branch,Ghaziabad,Semi-Urban,2021-10-16
+100,CUST-00100,Rohan,Yadav,38,36-50,Male,Salaried,735167.08,634,Verified,101,Noida Sector 62 Main Branch,Noida,Urban,2024-09-12
