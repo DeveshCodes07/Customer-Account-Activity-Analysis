@@ -1,5 +1,5 @@
 """
-FinEdge Digital Solutions — Customer Account Activity Analysis (CAAA)
+FinEdge Digital Solutions — Customer Account Activity Analysis (P063)
 Main Application Entrypoint & Executive Control Tower
 File: app.py
 """
@@ -24,7 +24,7 @@ from src.ui import render_tailwind_header, render_kpi_row_4, render_insight_box
 # 1. Page Configuration
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="FinEdge CAAA — Customer Account Activity Analysis",
+    page_title="FinEdge P063 — Customer Account Activity Analysis",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -51,7 +51,7 @@ except Exception as e:
 st.sidebar.markdown(
     """
     <div style="padding: 10px 0 15px 0;">
-        <h2 style="color: #1B365D; margin: 0; font-size: 1.25rem; font-weight: 700;">🏦 FinEdge CAAA</h2>
+        <h2 style="color: #1B365D; margin: 0; font-size: 1.25rem; font-weight: 700;">🏦 FinEdge P063</h2>
         <p style="color: #64748B; font-size: 0.8rem; margin: 2px 0 0 0;">Retail Banking Analytics Control</p>
     </div>
     """,
@@ -92,7 +92,7 @@ st.sidebar.info(
     "**ABES MCA Capstone Project**\n\n"
     "**Candidate:** Devesh Kumar\n\n"
     "**Roll No:** `2500320140050`\n\n"
-    "**Guide:** Prof. Alpna Lodhi\n\n"
+    "**Guide:** Mr. Dinesh\n\n"
     "**Organization:** FinEdge Digital Solutions Pvt. Ltd."
 )
 
@@ -115,7 +115,7 @@ df_filtered = apply_filters(df_master)
 # 5. Home Landing View
 # -----------------------------------------------------------------------------
 render_tailwind_header(
-    title="Customer Account Activity Analysis (CAAA)",
+    title="Customer Account Activity Analysis (P063)",
     subtitle="Enterprise Retail Banking Intelligence & Portfolio Risk Monitoring Platform",
     badge_text="ABES MCA Capstone",
     category="Executive Edition"

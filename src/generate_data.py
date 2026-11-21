@@ -8,7 +8,7 @@ import openpyxl
 
 def generate_all_data():
     print("=" * 70)
-    print("FINEDGE DIGITAL SOLUTIONS — SYNTHETIC DATA GENERATOR (CAAA)")
+    print("FINEDGE DIGITAL SOLUTIONS — SYNTHETIC DATA GENERATOR (P063)")
     print("Random Seed: 42 | Reproducible Synthetic Banking Dataset")
     print("=" * 70)
     
@@ -569,7 +569,7 @@ def generate_validation_report(docs_dir, n_cust, n_acct, n_chan, n_txns, n_snap,
     # Banner
     p_sub = doc.add_paragraph()
     p_sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    r_sub = p_sub.add_run("Student: Devesh Kumar | Roll: 2500320140050 | Mentor: Prof. Alpna Lodhi | FinEdge Digital Solutions")
+    r_sub = p_sub.add_run("Student: Devesh Kumar | Roll: 2500320140050 | Mentor: Mr. Dinesh | FinEdge Digital Solutions")
     r_sub.font.size = Pt(9.5)
     r_sub.font.color.rgb = RGBColor(100, 116, 139)
 

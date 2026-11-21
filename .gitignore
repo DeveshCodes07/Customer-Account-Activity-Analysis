@@ -22,3 +22,7 @@ desktop.ini
 .vscode/
 .idea/
 *.swp
+
+# Submission archives (keep local)
+*.zip
+submission_lms/

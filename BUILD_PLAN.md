@@ -1,7 +1,7 @@
-# Master Build Plan: Customer Account Activity Analysis (CAAA)
+# Master Build Plan: Customer Account Activity Analysis (P063)
 **Target Platform:** Streamlit Multipage Web Application (Python 3.12/3.14)  
 **Academic Context:** MCA 2nd Year Capstone Project, ABES Engineering College  
-**Candidate:** Devesh Kumar (Roll No: 2500320140050) | **Guide:** Prof. Alpna Lodhi  
+**Candidate:** Devesh Kumar (Roll No: 2500320140050) | **Guide:** Mr. Dinesh  
 **Industry Partner Case:** FinEdge Digital Solutions Pvt. Ltd., Sector 62, Noida  
 
 ---
@@ -9,7 +9,7 @@
 ## 1. Project Summary & Document Index
 
 ### Project Summary (10 Lines)
-1. Customer Account Activity Analysis (CAAA) is an enterprise-grade retail banking business intelligence system engineered for FinEdge Digital Solutions Pvt. Ltd.
+1. Customer Account Activity Analysis (P063) is an enterprise-grade retail banking business intelligence system engineered for FinEdge Digital Solutions Pvt. Ltd.
 2. The platform bridges transaction-level data engineering with executive portfolio decision-making across Savings, Current, and Salary accounts.
 3. The system tracks 10 Operational Questions (OQ-01 to OQ-10) addressing dormant accounts, churn risk, MAB deficits, channel technical failures, and demographic balance skewness.
 4. Built upon a 3NF relational SQLite database (`data/app.db`) featuring 5 tables and an indexed 42-column denormalized analytical view (`vw_customer_account_activity_analysis`).
@@ -208,7 +208,7 @@ BUILD-13 (README & Deploy Ready)
 - **Exact Prompt for AI:**
   ```text
   Implement app.py and pages/1_Executive_Overview.py:
-  1. app.py: Set st.set_page_config(page_title="CAAA - FinEdge Banking", layout="wide", page_icon="🏦").
+  1. app.py: Set st.set_page_config(page_title="P063 - FinEdge Banking", layout="wide", page_icon="🏦").
      Establish shared session_state filters in sidebar: Region (All, Urban, Semi-Urban, Rural), Account Type (All, Savings, Current, Salary), Inactivity Tier (All, Active, At-Risk, Inactive, Dormant).
      Display landing hero with project metadata, FinEdge context, and navigation links.
   2. pages/1_Executive_Overview.py:

@@ -1,17 +1,17 @@
-# Customer Account Activity Analysis (CAAA)
+# Customer Account Activity Analysis (P063)
 ### Enterprise Retail Banking Business Intelligence & Risk Monitoring Platform
 
 **Academic Context:** MCA 2nd Year Capstone Project (Data Analytics)  
 **Institution:** ABES Engineering College, Ghaziabad  
 **Candidate:** Devesh Kumar | **Roll No:** `2500320140050`  
-**Faculty Guide & Evaluator:** Prof. Alpna Lodhi, Department of Computer Applications  
+**Faculty Guide & Evaluator:** Mr. Dinesh, Mentor (Data Analytics)  
 **Industry Partner Context:** FinEdge Digital Solutions Pvt. Ltd., Sector 62, Noida  
 
 ---
 
 ## 1. Executive Summary
 
-Customer Account Activity Analysis (CAAA) is an enterprise retail banking analytics platform engineered for FinEdge Digital Solutions Pvt. Ltd. The system bridges transaction-level data engineering with executive portfolio decision-making across Savings, Current, and Salary accounts.
+Customer Account Activity Analysis (P063) is an enterprise retail banking analytics platform engineered for FinEdge Digital Solutions Pvt. Ltd. The system bridges transaction-level data engineering with executive portfolio decision-making across Savings, Current, and Salary accounts.
 
 The platform directly resolves 10 Operational Questions (`OQ-01` through `OQ-10`) addressing high-risk dormancy migration, early-warning churn velocity drops, Minimum Average Balance (MAB) shortfall deficits, omnichannel delivery reliability, and non-parametric demographic balance dispersion.
 
